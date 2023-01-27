@@ -1,0 +1,59 @@
+body{
+    padding: 0%;
+    margin: 0%;
+
+}
+.header-area{
+    background: dimgray;
+}
+.logo-area{
+    width: 150px;
+    margin: auto;
+}
+.logo-area img{
+    width:100%;
+}
+.nave-area{
+    background-color: rgb(206, 192, 192);
+    font-size: 30px;
+}
+.section-area h1{
+    color: blue;
+    text-align: center;
+}
+.section-area{
+    color: blueviolet;
+    font-size: 20px;
+    width: 70%;
+    float: left;
+    margin-right: 3%;
+    margin-left: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	
+    
+    
+}
+.aside-area h2{
+    color: rgb(72, 5, 255);
+    text-align: center;
+}
+.aside-area{
+    color: rgb(87, 114, 104);
+    width: 24%;
+    overflow: hidden;
+    padding-right: 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.content-area:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.foter-area{
+    text-align: center;
+    background-color: rgb(218, 200, 174);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+	overflow: hidden;
+}
+# project-2
